@@ -192,7 +192,7 @@ const socialLinks = [
   },
   {
     icon: "fab fa-linkedin-in",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/company/viqtechnologies/",
     label: "LinkedIn",
   },
   {
