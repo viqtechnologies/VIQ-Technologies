@@ -197,7 +197,7 @@ const socialLinks = [
   },
   {
     icon: "fab fa-instagram",
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/viqtechnologies",
     label: "Instagram",
   },
 ];
