@@ -17,7 +17,7 @@ const app = express();
 
 app.use(  
   cors({
-    origin: ["https://viq-technologies-website.onrender.com"],
+    origin: ["https://viq-technologies.vercel.app"],
   }),
 ); 
 app.use(express.json());
