@@ -187,7 +187,7 @@ const socialLinks = [
   },
   {
     icon: "fab fa-google",
-    href: "https://www.google.com/",
+    href: "https://share.google/zEKwb6roKNyPtxeBW",
     label: "Google",
   },
   {
